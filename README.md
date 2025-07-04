@@ -2,6 +2,8 @@
 
 A basic console-based calculator application written in C# (with no A.I.) for practice purposes.
 
+Took around 4 hours to make without AI
+
 ## Features
 
 - Performs basic arithmetic operations:
